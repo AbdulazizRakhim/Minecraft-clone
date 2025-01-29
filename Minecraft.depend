@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1737319262 source:c:\users\abdulaziz rakhimov\desktop\codeblocks\_opengl files\camera.c
+	"GL/gl.h"
+	"windows.h"
+	"camera.h"
+
+1737319259 c:\users\abdulaziz rakhimov\desktop\codeblocks\_opengl files\camera.h
+
+1737382824 source:c:\users\abdulaziz rakhimov\desktop\codeblocks\minecraft\main.c
+	<windows.h>
+	<gl/gl.h>
+	"math.h"
+	"mmsystem.h"
+	"../_OpenGL/camera1.h"
+	"../_STB_Image/stb_image.h"
+	"main.h"
+
+1737320551 c:\users\abdulaziz rakhimov\desktop\codeblocks\_opengl\camera1.h
+
+1737385869 source:c:\users\abdulaziz rakhimov\desktop\codeblocks\_opengl\camera1.c
+	"GL/gl.h"
+	"windows.h"
+	"math.h"
+	"camera1.h"
+	"time.h"
+
+1731135728 c:\users\abdulaziz rakhimov\desktop\codeblocks\_stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1737378849 c:\users\abdulaziz rakhimov\desktop\codeblocks\minecraft\main.h
+
+1737385869 source:c:\users\abdulaziz rakhimov\desktop\minecraft demo\_opengl\camera1.c
+	"GL/gl.h"
+	"windows.h"
+	"math.h"
+	"camera1.h"
+	"time.h"
+
+1737320551 c:\users\abdulaziz rakhimov\desktop\minecraft demo\_opengl\camera1.h
+
+1737382824 source:c:\users\abdulaziz rakhimov\desktop\minecraft demo\minecraft\main.c
+	<windows.h>
+	<gl/gl.h>
+	"math.h"
+	"mmsystem.h"
+	"../_OpenGL/camera1.h"
+	"../_STB_Image/stb_image.h"
+	"main.h"
+
+1731135728 c:\users\abdulaziz rakhimov\desktop\minecraft demo\_stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1737378849 c:\users\abdulaziz rakhimov\desktop\minecraft demo\minecraft\main.h
+
