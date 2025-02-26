@@ -3,9 +3,9 @@
 #include "math.h"
 #include "mmsystem.h"
 
-#include "../_OpenGL/camera1.h"
+#include "../lib/_OpenGL/camera1.h"
 #define STB_IMAGE_IMPLEMENTATION
-#include "../_STB_Image/stb_image.h"
+#include "../lib/_STB_Image/stb_image.h"
 #include "main.h"
 
 
